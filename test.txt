@@ -1,0 +1,7 @@
+//see https://codegolf.stackexchange.com/questions/121921/make-a-interpreter
+
+//At symbol ;, increment top value of the stack
+;i
+
+//At symbol #, compute a % 127, where a is the top value of the stack, convert to a character, and print
+#127rcp
