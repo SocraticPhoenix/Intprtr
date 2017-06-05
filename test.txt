@@ -3,5 +3,5 @@
 //At symbol ;, increment top value of the stack
 ;i
 
-//At symbol #, compute a % 127, where a is the top value of the stack, convert to a character, and print
+//At symbol #, compute [top value of the stack] % 127, convert to a character, and print
 #127rcp
